@@ -1,3 +1,4 @@
 đây là file 2.txt
 
 nội dung file 2 là xxx
+haha -> sửa lại
