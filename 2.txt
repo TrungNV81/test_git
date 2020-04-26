@@ -2,3 +2,5 @@
 
 nội dung file 2 là xxx
 haha -> sửa lại
+
+haha 3
