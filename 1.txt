@@ -11,3 +11,5 @@ trung test cái 1 1 - reset
 1-trung test cái 1 lần 2 - reset
 
 sửa file 1 trên master
+
+sửa file 1 trên master lần 2
